@@ -69,12 +69,6 @@ npm run dev
 
 ---
 
-## Ekran Görüntüsü
-
- ![Görüntü](./assets/hero.png)
-
----
-
 ## Öğrendiklerim
 
 - Vite ile React projesi kurmayı,
