@@ -65,7 +65,7 @@ npm run dev
 
 ---
 
-[Netlify](link)
+[Netlify](https://deploy-preview-1--softwarepersonanote.netlify.app)
 
 ---
 
